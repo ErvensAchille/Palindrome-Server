@@ -1,3 +1,5 @@
+Goal: Complete a full service palindrome server using back end logic.
+
 ![Alt](palindrome.png)
 
 ## Installation
